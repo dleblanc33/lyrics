@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.lyrics-container {
+    margin: 20px;
+}
+
+.lyrics {
+    font-size: 18px;
+    line-height: .5;
+}
+
+
+
+.navigation {
+    margin-top: 20px;
+}
+
+#prev {
+    background-color: #95C5BD; /* Button background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Padding around the button text */
+    border: none; /* Remove button border */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    font-size: 16px;
+}
+
+#prev:hover {
+    background-color: #f26c57; /* Button background color on hover */
+}
+
+/* Style the Next button */
+#next {
+    background-color: #95C5BD; /* Button background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Padding around the button text */
+    border: none; /* Remove button border */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    font-size: 16px;
+}
+
+#next:hover {
+    background-color: #f26c57; /* Button background color on hover */
+}
+
+
+
+#prev2 {
+    background-color: #95C5BD; /* Button background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Padding around the button text */
+    border: none; /* Remove button border */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    font-size: 16px;
+}
+
+#prev2:hover {
+    background-color: #f26c57; /* Button background color on hover */
+}
+
+/* Style the Next button */
+#next2 {
+    background-color: #95C5BD; /* Button background color */
+    color: #fff; /* Text color */
+    padding: 10px 20px; /* Padding around the button text */
+    border: none; /* Remove button border */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    font-size: 16px;
+}
+
+#next2:hover {
+    background-color: #f26c57; /* Button background color on hover */
+}
